@@ -75,3 +75,8 @@ h1{
 .port:hover{
      color:#C0C0C0;
 }
+.pokras-3{
+     background-color:#238885;
+     display:flex;
+     justify-content:center;
+}
