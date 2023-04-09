@@ -7,8 +7,8 @@ body{
     background: linear-gradient(to bottom right, #000099 5%, #66ff66 95%);
     margin:0px;
 }
-.clas{
-    margin-top:15px;
+.clas {
+    margin-top: 15px ;
     margin-left:30px;
     color:white;
     position: absolute;
@@ -63,10 +63,11 @@ h1{
     margin:50px 100px 50px 100px;
 }
 .port{
-    border:1px solid white;
-    border-radius:10px;
-    color:white;
+     border:1px solid white;
+     border-radius:10px;
+     color:white;
+     text-decoration:none;
 }
 .port:hover{
-    color:#C0C0C0;
+     color:#C0C0C0;
 }
