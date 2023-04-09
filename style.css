@@ -54,6 +54,8 @@ h1{
 }
 .pokras-2{
     background: linear-gradient(to top right, #000099 5%, #66ff66 95%);
+    padding:40px;
+    margin:0px;
 }
 .pro-mene{
     color:white;
@@ -79,6 +81,7 @@ h1{
      color:#C0C0C0;
 }
 .pokras-3{
+     padding:40px;
      background-color:#238885;
      text-align:center;
      color:white;
