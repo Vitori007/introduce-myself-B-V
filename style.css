@@ -30,6 +30,7 @@ body{
 }
 h1{
     margin:0px;
+    padding:0px;
 }
 .glavnoe{
      position: absolute;
@@ -54,15 +55,17 @@ h1{
 .pokras-2{
     background: linear-gradient(to top right, #000099 5%, #66ff66 95%);
 }
-.pokras-2 h1{
+.pro-mene{
     color:white;
     margin:50px 100px 40px 100px;
+    font-size:30px;
 }
 .pokras-2 p{
     color:white;
     margin:50px 100px 50px 100px;
 }
 .port{
+     margin-left:100px;
      border:1px solid white;
      border-radius:10px;
      color:white;
