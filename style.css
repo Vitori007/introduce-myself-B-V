@@ -36,8 +36,13 @@ h1{
      color:white;
 }
 .imya{
-    font-size:40px;
+     font-size:40px;
+     margin-right:100px;
+}
+.professional{
+    color:#FFD700;
     margin-right:100px;
+    font-size:21px;
 }
 .izobr{
     margin-top:50px;
