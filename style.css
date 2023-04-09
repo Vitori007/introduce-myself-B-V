@@ -105,9 +105,10 @@ h1{
      font-size:27px;
 }
 .oval{
-    text-align:center;
-    width:700px;
-    height:50px;
+    display:flex;
+    justify-content: center;
+    width:900px;
+    height:30px;
     background-color:#423189;
     border:20px double #238885;
     border-radius:50%;
