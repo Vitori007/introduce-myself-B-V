@@ -3,6 +3,7 @@ body{
 }
 .pokras-1{
     background: linear-gradient(to bottom right, #000099 5%, #66ff66 95%);
+    margin:0px;
 }
 .clas{
     margin-top:15px;
