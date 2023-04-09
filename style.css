@@ -104,3 +104,10 @@ h1{
 .dz2{
      font-size:27px;
 }
+.oval{
+    width:100%;
+    height:30%;
+    background-color:#423189;
+    border:20px double #238885;
+    border-radius:50px;
+}
