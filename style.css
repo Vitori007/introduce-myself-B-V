@@ -77,7 +77,6 @@ h1{
 }
 .pokras-3{
      background-color:#238885;
-     display:flex;
-     justify-content:center;
+     text-align:center;
      color:white;
 }
