@@ -1,4 +1,5 @@
 .rozdilu{
+    position:relative;
     top:0px;
     display:flex;
     justify-content:flex-end;
