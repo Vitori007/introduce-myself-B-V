@@ -58,3 +58,11 @@ h1{
     color:white;
     margin:50px 100px 50px 100px;
 }
+.port{
+    border:1px solid white;
+    bordr-radius:10px;
+    color:white;
+}
+.port:hover{
+    color:#C0C0C0;
+}
