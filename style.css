@@ -20,11 +20,13 @@ body{
     top:0px;
     right:0px;
     color:white;
+    font-size:20px;
 }
 .rozdilu p{
     margin-top:15px;
     margin-right:30px;
     color:white;
+    font-size:20px;
 }
 h1{
     margin:0px;
@@ -51,4 +53,7 @@ h1{
 }
 .pokras-2{
     background: linear-gradient(to top right, #000099 5%, #66ff66 95%);
+}
+.pokras-2 p{
+    colour:white;
 }
