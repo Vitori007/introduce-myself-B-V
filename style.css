@@ -55,5 +55,6 @@ h1{
     background: linear-gradient(to top right, #000099 5%, #66ff66 95%);
 }
 .pokras-2 p{
-    colour:white;
+    color:white;
+    margin:50px 100px 50px 100px;
 }
