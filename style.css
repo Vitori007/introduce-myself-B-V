@@ -72,7 +72,10 @@ h1{
      color:white;
      text-decoration:none;
 }
-.port:hover, . Contact:hover{
+.port:hover{
+     color:#C0C0C0;
+}
+.Contact:hover{
      color:#C0C0C0;
 }
 .pokras-3{
@@ -82,4 +85,10 @@ h1{
 }
 .pokras-3 p{
      margin:50px 100px 50px 100px;
+}
+.pokras-4{
+    background-color:#423189;
+    color:white;
+    display:flex;
+    justify-content: space-around;
 }
