@@ -1,5 +1,7 @@
 body{
     position:relative;
+    padding:0px;
+    margin:0px;
 }
 .pokras-1{
     background: linear-gradient(to bottom right, #000099 5%, #66ff66 95%);
@@ -9,6 +11,7 @@ body{
     margin-top:15px;
     margin-left:30px;
     color:white;
+    position: absolute;
 }
 .rozdilu{
     display:flex;
