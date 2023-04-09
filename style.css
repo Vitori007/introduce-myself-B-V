@@ -30,5 +30,8 @@ h1{
     margin:0px;
 }
 .glavnoe{
+    position: absolute;
+    top:300px;
+    right:50px;
     color:white;
 }
