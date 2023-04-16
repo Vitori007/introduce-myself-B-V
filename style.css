@@ -130,7 +130,9 @@ footer{
 .suu{
       color:#5E5D5D;
       font-size:15px;
-      text-align: center;
+      text-align:center;
+      margin-left:150px;
+      margin-right:150px;
 }
 .men-2{
       display:flex;
