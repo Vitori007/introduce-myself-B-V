@@ -117,11 +117,11 @@ h1{
 footer{
      display:flex;
      justify-content: center;
-     background-color:2C2C2C;
      flex-direction: column;
+     background-color:2C2C2;
      color: white;
 }
 .ssu{
-     color:#5E5D5D;
-     font-size:15px;
+      color:#5E5D5D;
+      font-size:15px;
 }
