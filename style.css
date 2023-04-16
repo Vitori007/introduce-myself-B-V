@@ -127,3 +127,7 @@ footer{
 .f-10{
       text-align: center;
 }
+.men-2{
+      display:flex;
+      justify-content: center;
+}
