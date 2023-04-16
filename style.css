@@ -146,3 +146,7 @@ footer h1{
 .men-2-n{
        margin-right:35px;
 }
+.icon{
+      display:flex;
+      justify-content: center;
+}
