@@ -118,8 +118,8 @@ footer{
      display:flex;
      justify-content: center;
      background-color:2C2C2C;
+     flex-direction: column;
      color: white;
-     align-items: center;
 }
 .ssu{
      color:#5E5D5D;
