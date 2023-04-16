@@ -140,4 +140,8 @@ footer{
 .men-2{
       display:flex;
       justify-content: center;
+      font-size:17px;
+}
+.men-2-n{
+      margin-right:50px;
 }
