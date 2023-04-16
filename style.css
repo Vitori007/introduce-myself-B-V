@@ -115,13 +115,15 @@ h1{
     border-radius:50%;
 }
 footer{
-     display:flex;
-     justify-content: center;
-     flex-direction: column;
      background-color:2C2C2;
      color: white;
 }
 .ssu{
+      display:flex;
+      justify-content: center;
       color:#5E5D5D;
       font-size:15px;
+}
+.f-10{
+      text-align: center;
 }
